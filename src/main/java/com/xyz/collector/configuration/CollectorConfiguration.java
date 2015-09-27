@@ -1,6 +1,7 @@
 package com.xyz.collector.configuration;
 
-import com.yammer.dropwizard.config.Configuration;
+
+import io.dropwizard.Configuration;
 
 import javax.validation.Valid;
 

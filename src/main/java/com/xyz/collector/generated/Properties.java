@@ -33,11 +33,11 @@ public String switch4;
 @JsonProperty("switch5")
 public String switch5;
 @JsonProperty("dimmer1")
-public int dimmer1;
+public Integer dimmer1;
 @JsonProperty("dimmer2")
-public int dimmer2;
+public Integer dimmer2;
 @JsonProperty("dimmer3")
-public int dimmer3;
+public Integer dimmer3;
 
 public Properties withSwitch1(String switch1) {
 this.switch1 = switch1;
